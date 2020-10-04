@@ -13,6 +13,7 @@ const featureFlags = {
     'darkModeVariant',
     'standardFontWeights',
     'additionalBreakpoint',
+    'redesignedColorPalette',
   ],
 }
 
